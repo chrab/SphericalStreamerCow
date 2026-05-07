@@ -6,4 +6,4 @@ A (very) simple AI-generated toy model to simulate the C/O ratio evolution in pr
 
 ## Run it
 
-Click the **launch binder** badge above, or open `SphericalStreamerCow.ipynb` in JupyterLab locally using the `prodimo` conda environment.
+Click the **launch binder** badge above, or open `SphericalStreamerCow.ipynb` in JupyterLab locally after checking you have all the required packages (see binder/environment.yml)
